@@ -1,10 +1,10 @@
-https
+https:- 
 https://github.com/abhijeet152/new02.git
 
-ssh
+ssh:- 
 git@github.com:abhijeet152/new02.git
 
-token
+token:- 
 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
 
 new token:-
